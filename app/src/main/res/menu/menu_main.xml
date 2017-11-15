@@ -1,0 +1,297 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.utapass.topwords.MainActivity">
+
+    <item
+        android:id="@+id/action_relayout"
+        android:icon="@drawable/ic_relayout"
+        android:menuCategory="secondary"
+        android:orderInCategory="1"
+        android:title=""
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_allregions"
+        android:orderInCategory="100"
+        android:title="@string/action_allregions"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_argentina"
+        android:orderInCategory="100"
+        android:title="@string/action_argentina"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_australia"
+        android:orderInCategory="100"
+        android:title="@string/action_australia"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_austra"
+        android:orderInCategory="100"
+        android:title="@string/action_austra"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_belgium"
+        android:orderInCategory="100"
+        android:title="@string/action_belgium"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_brazil"
+        android:orderInCategory="100"
+        android:title="@string/action_brazil"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_canada"
+        android:orderInCategory="100"
+        android:title="@string/action_canada"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_chile"
+        android:orderInCategory="100"
+        android:title="@string/action_chile"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_colombia"
+        android:orderInCategory="100"
+        android:title="@string/action_colombia"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_czech_republic"
+        android:orderInCategory="100"
+        android:title="@string/action_czech_republic"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_denmark"
+        android:orderInCategory="100"
+        android:title="@string/action_denmark"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_egypt"
+        android:orderInCategory="100"
+        android:title="@string/action_egypt"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_finland"
+        android:orderInCategory="100"
+        android:title="@string/action_finland"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_france"
+        android:orderInCategory="100"
+        android:title="@string/action_france"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_germany"
+        android:orderInCategory="100"
+        android:title="@string/action_germany"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_greece"
+        android:orderInCategory="100"
+        android:title="@string/action_greece"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_hong_kong"
+        android:orderInCategory="100"
+        android:title="@string/action_hong_kong"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_hungray"
+        android:orderInCategory="100"
+        android:title="@string/action_hungray"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_india"
+        android:orderInCategory="100"
+        android:title="@string/action_india"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_indonesia"
+        android:orderInCategory="100"
+        android:title="@string/action_indonesia"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_israel"
+        android:orderInCategory="100"
+        android:title="@string/action_israel"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_italy"
+        android:orderInCategory="100"
+        android:title="@string/action_italy"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_japan"
+        android:orderInCategory="100"
+        android:title="@string/action_japan"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_kenya"
+        android:orderInCategory="100"
+        android:title="@string/action_kenya"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_maxico"
+        android:orderInCategory="100"
+        android:title="@string/action_maxico"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_netherlands"
+        android:orderInCategory="100"
+        android:title="@string/action_netherlands"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_new_zealand"
+        android:orderInCategory="100"
+        android:title="@string/action_new_zealand"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_nigeria"
+        android:orderInCategory="100"
+        android:title="@string/action_nigeria"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_norway"
+        android:orderInCategory="100"
+        android:title="@string/action_norway"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_philippines"
+        android:orderInCategory="100"
+        android:title="@string/action_philippines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_poland"
+        android:orderInCategory="100"
+        android:title="@string/action_poland"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_portugal"
+        android:orderInCategory="100"
+        android:title="@string/action_portugal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_romania"
+        android:orderInCategory="100"
+        android:title="@string/action_romania"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_russia"
+        android:orderInCategory="100"
+        android:title="@string/action_russia"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_saudi_arabia"
+        android:orderInCategory="100"
+        android:title="@string/action_saudi_arabia"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_singapore"
+        android:orderInCategory="100"
+        android:title="@string/action_singapore"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_south_africa"
+        android:orderInCategory="100"
+        android:title="@string/action_south_africa"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_south_korea"
+        android:orderInCategory="100"
+        android:title="@string/action_south_korea"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_spain"
+        android:orderInCategory="100"
+        android:title="@string/action_spain"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sweden"
+        android:orderInCategory="100"
+        android:title="@string/action_sweden"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_switzerland"
+        android:orderInCategory="100"
+        android:title="@string/action_switzerland"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_taiwan"
+        android:orderInCategory="100"
+        android:title="@string/action_taiwan"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_thailand"
+        android:orderInCategory="100"
+        android:title="@string/action_thailand"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_turkey"
+        android:orderInCategory="100"
+        android:title="@string/action_turkey"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ukraine"
+        android:orderInCategory="100"
+        android:title="@string/action_ukraine"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_united_kningdom"
+        android:orderInCategory="100"
+        android:title="@string/action_united_kingdom"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_united_states"
+        android:orderInCategory="100"
+        android:title="@string/action_united_states"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_vietnam"
+        android:orderInCategory="100"
+        android:title="@string/action_vietnam"
+        app:showAsAction="never" />
+</menu>
