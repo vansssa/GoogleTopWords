@@ -17,7 +17,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.utapass.topwords.R;
-import com.utapass.topwords.utils.CustomDialog;
+import com.utapass.topwords.utils.CustomGridDialog;
 import com.utapass.topwords.utils.Utils;
 
 import java.util.ArrayList;
@@ -117,7 +117,7 @@ public class MainActivityFragment extends Fragment implements MainFragmentView {
     public boolean onOptionsItemSelected(MenuItem item) {
         if(item.getItemId() == R.id.action_relayout){
 
-            CustomDialog customDialog = new CustomDialog();
+            CustomGridDialog customDialog = new CustomGridDialog();
             customDialog.show(getFragmentManager(),CUSTOM_DIALOG);
         }
         else {

@@ -42,4 +42,5 @@ dependencies {
     testCompile "org.powermock:powermock-classloading-xstream:1.6.4"
     androidTestCompile  "com.android.support.test.uiautomator:uiautomator-v18:2.0.0"
     androidTestCompile 'com.android.support.test.espresso:espresso-intents:3.0.1'
+    compile 'com.afollestad:drag-select-recyclerview:1.0.0'
 }
